@@ -1,0 +1,14 @@
+{
+  "name": "relayer-practice",
+  "version": "1.0.0",
+  "description": "Relayer and Root Management practice",
+  "scripts": {
+    "compile": "hardhat compile",
+    "test": "hardhat test",
+    "node": "hardhat node"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "hardhat": "^2.19.0"
+  }
+}
